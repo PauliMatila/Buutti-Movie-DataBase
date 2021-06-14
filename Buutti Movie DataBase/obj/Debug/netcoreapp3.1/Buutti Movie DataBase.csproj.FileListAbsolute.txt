@@ -1,0 +1,9 @@
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\obj\Debug\netcoreapp3.1\Buutti Movie DataBase.csprojAssemblyReference.cache
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\obj\Debug\netcoreapp3.1\Buutti Movie DataBase.AssemblyInfoInputs.cache
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\obj\Debug\netcoreapp3.1\Buutti Movie DataBase.AssemblyInfo.cs
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\bin\Debug\netcoreapp3.1\Buutti Movie DataBase.deps.json
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\bin\Debug\netcoreapp3.1\Buutti Movie DataBase.dll
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\bin\Debug\netcoreapp3.1\Buutti Movie DataBase.pdb
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\obj\Debug\netcoreapp3.1\Buutti Movie DataBase.dll
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\obj\Debug\netcoreapp3.1\Buutti Movie DataBase.pdb
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\Buutti Movie DataBase\obj\Debug\netcoreapp3.1\Buutti Movie DataBase.csproj.CoreCompileInputs.cache

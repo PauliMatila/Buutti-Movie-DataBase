@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eds1zf0hkjypL2y1BMYSNPD1UPHTddELVFAz6wXmm16DZ5H0nFPxrBO10BaDWKENLLaqB+KjPQlVjplONAlxMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MaMeMo\\source\\repos\\Buutti Movie DataBase\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaMeMo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

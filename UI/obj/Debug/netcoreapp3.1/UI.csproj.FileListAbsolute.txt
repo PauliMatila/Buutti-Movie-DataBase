@@ -1,0 +1,25 @@
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\UI.exe
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\UI.deps.json
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.json
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\UI.runtimeconfig.dev.json
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\UI.dll
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\UI.pdb
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.csprojAssemblyReference.cache
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.cache
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI_MarkupCompile.lref
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.g.resources
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfoInputs.cache
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.AssemblyInfo.cs
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.dll
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.pdb
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.genruntimeconfig.cache
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\Buutti Movie DataBase.dll
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\bin\Debug\netcoreapp3.1\Buutti Movie DataBase.pdb
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.csproj.CopyComplete
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\AddMovieWindow.g.cs
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\AddMovieWindow.baml
+C:\Users\MaMeMo\source\repos\Buutti Movie DataBase\UI\obj\Debug\netcoreapp3.1\UI.csproj.CoreCompileInputs.cache
